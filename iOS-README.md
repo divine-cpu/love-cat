@@ -7,7 +7,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ## Flix Part 1
 
 ### User Stories
-`TODO://` In the **User Stories section below**, add an `x` in the `-[ ]` like this `- [x]` for any user story you complete. (🚫 Remove this paragraph after checking off completed user stories)
 
 #### REQUIRED (10pts)
 - [x] (2pts) User sees an app icon on the home screen and a styled launch screen.
@@ -19,16 +18,14 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` 
-Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 **GIF Link from Own Repository**
 
-https://github.com/divine-cpu/love-cat/blob/main/grader-task-ios.gif
+<img src=https://github.com/divine-cpu/love-cat/blob/main/grader-task-ios.gif width=250><br>
 
 **GIF Link from Imgur**
 
-https://imgur.com/a/wSd7PBo.gif
+![imgur-ios-read me-resize-gif](https://user-images.githubusercontent.com/76990934/103720721-f677bc00-5006-11eb-8572-fedf742d56ca.gif)
 
 ### Notes
 Describe any challenges encountered while building the app.
